@@ -1,1 +1,1 @@
-# 5C-Pawel-Przugodzki-GitHub
+# 5C-Pawel-Przygodzki-GitHub
