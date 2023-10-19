@@ -6,7 +6,7 @@
     <title>Login</title>
 </head>
 <body>
-    <form action="czyistnieje.php" method="post">
+    <form action="speawdzenie.php" method="post">
         <label for="login">Podaj login</label>
         <input type="text" name="login" id="login"></br>
         <label for="pass">Podaj hasło</label>
