@@ -1,4 +1,5 @@
-<?phpif(!isset($_COOKIE['visited'])) {
+<?php
+if(!isset($_COOKIE['visited'])) {
     setcookie("visited", "yes");
     $str = "cookie o nazwie visited nie jest ustawione.";
 } else {
@@ -16,7 +17,7 @@
 <body>
     <div>
         <?php
-        echo $str
+        echo $str;
         ?>
     </div>
 </body>
