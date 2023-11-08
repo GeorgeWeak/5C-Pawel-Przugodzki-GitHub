@@ -8,7 +8,7 @@
 <body>
     <?php
     function obliczPierwiastek($liczba) {
-        if (liczba >=0) {
+        if ($liczba >=0) {
             $pierwiastek = sqrt($liczba);
             echo "<p>Pierwisatek z $liczba to: $pierwiastek</p>";
         } else {
