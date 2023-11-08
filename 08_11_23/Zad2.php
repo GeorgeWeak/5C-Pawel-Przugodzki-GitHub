@@ -12,7 +12,7 @@
             $pierwiastek = sqrt($liczba);
             echo "<p>Pierwisatek z $liczba to: $pierwiastek</p>";
         } else {
-            echo "<p>Nie można obliczyc pierwiasta z liczby ujemnej</p>"
+            echo "<p>Nie można obliczyc pierwiasta z liczby ujemnej</p>";
         
         }
     }
