@@ -11,7 +11,7 @@
     $zmienna2 = 5;
 
     $wiekszawaWartosc = ($zmienna1 > $zmienna2) ?$zmienna1 : $zmienna2;
-    echo "<p>Wieksza wartosc to $wiekszaWartosc</p>"
+    echo "<p>Wieksza wartosc to $wiekszaWartosc</p>";
     ?>
     
 </body>
