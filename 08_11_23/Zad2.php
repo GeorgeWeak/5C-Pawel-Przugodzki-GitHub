@@ -16,6 +16,8 @@
         
         }
     }
+    $liczbaDoObliczenia = 16;
+    obliczPierwiastek($liczbaDoObliczenia);
     ?>
     
 </body>
