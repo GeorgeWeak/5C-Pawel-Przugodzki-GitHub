@@ -1,0 +1,3 @@
+W przypadku menu wyboru programu lepiej jest użwyc instrukcji switch poniewaz 
+oszczędza ona nam oraz objętość kodu w tym przypadku jest o wiele mniejsza 
+jest ona również czytelniejsza od if.
