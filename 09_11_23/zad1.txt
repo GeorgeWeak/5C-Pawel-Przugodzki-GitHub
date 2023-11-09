@@ -1,0 +1,3 @@
+Petle są wykorzystywane w niemal wszystkich jezykach programowania
+Są one jedną z podstawowych konstrukcji wykorzystywanych w programowaniu 
+służą one do wykonywania określonej czynnosci wielokrotnie.
