@@ -1,0 +1,11 @@
+Zaletami używania bazd naych to:
+-Możliwosc uzyskania dostepu di danych bez uzycia lokalnego procesora zapytań
+-Wieksza wydajnośc i elastyczność dostepu do zdalnych silników baz danych
+-Wielu użytkowników może miec dostęp do tej samej bazy danych
+
+Wady to:
+-Relacyjne bazy danych nie są idealne do obsługi dużych ilości nieustrukturyzowanych danych
+-elacyjne bazy danych wymagają dużo struktury i pewnego poziomu planowania, ponieważ kolumny muszą być zdefiniowane,
+ a dane muszą poprawnie pasować do nieco sztywnych kategorii.
+-Programiści i inni pracownicy odpowiedzialni za bazę danych muszą poświęcić czas
+na zarządzanie i optymalizację bazy danych w miarę dodawania do niej danych.
