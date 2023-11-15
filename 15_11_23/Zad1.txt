@@ -1,0 +1,5 @@
+1.MySQL  https://www.mysql.com/  8.0
+2.PostgreSQl   https://www.postgresql.org.pl/  9.3
+3.MS SQL    https://www.microsoft.com/pl-pl/sql-server/sql-server-2019    SQL Server 2022
+4.Oracle   https://www.oracle.com/pl/database/   Oracle Database 23c:
+5.Sybase   https://www.sap.com/products/acquired-brands/what-is-sybase.html    16.0 SP03 PL03
