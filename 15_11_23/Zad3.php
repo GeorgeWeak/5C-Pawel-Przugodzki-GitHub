@@ -20,5 +20,6 @@
 
     mysqli_connect($conn);
     
+    ?>
 </body>
-</html>m
+</html>
